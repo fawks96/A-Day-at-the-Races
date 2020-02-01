@@ -135,6 +135,7 @@ namespace A_Day_at_the_Races2
                     {
                         guys[j].Collect(i);
                     }
+                    break;
                 }
             }
         }
